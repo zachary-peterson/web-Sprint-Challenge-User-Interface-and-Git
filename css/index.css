@@ -257,3 +257,12 @@ footer nav a {
     text-decoration: none;
     color: #000000;
 }
+
+nav a:hover  {
+    font-size: 1.5rem;
+}
+
+.grid-item a:hover {
+    background-color: #000000;
+    color: white;
+}
