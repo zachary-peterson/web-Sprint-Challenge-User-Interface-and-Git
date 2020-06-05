@@ -276,7 +276,7 @@ nav a:hover  {
     flex-flow: column nowrap;
     text-align: center;
     margin: 0 auto;
-    width: 80%;
+    width: 90%;
 }
 
 .blog-item  {
@@ -285,13 +285,13 @@ nav a:hover  {
     align-items: center;
     border-bottom: 1px dashed black;
     padding-bottom: 2%;
-    margin: 0 10% 2.5%;
-    line-height: 2;
+    margin: 2.5% 10% 2.5%;
+    line-height: 3;
     text-align: center;
 }
 
 .blog-item img {
-    width: 60vh;
+    width: 50vw;
 }
 
 .blog-item a:hover {
