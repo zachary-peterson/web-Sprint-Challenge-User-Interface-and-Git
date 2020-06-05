@@ -293,3 +293,8 @@ nav a:hover  {
 .blog-item img {
     width: 60vh;
 }
+
+.blog-item a:hover {
+    background-color: #000000;
+    color: white;
+}
