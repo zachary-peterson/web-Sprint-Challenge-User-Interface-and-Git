@@ -266,3 +266,20 @@ nav a:hover  {
     background-color: #000000;
     color: white;
 }
+
+
+.grid  {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+}
+
+.blog-item  {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    border-bottom: 1px dashed black;
+    padding-bottom: 2%;
+    margin-bottom: 2.5%;
+    line-height: 2;
+}
